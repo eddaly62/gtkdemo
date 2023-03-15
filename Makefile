@@ -1,7 +1,7 @@
-PROG=fixed
+#PROG=fixed
 #PROG=box
 #PROG=container
-#PROG=myGtkWindow
+PROG=myGtkWindow
 #PROG=startGtkApp
 #PROG=start
 
