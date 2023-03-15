@@ -3,7 +3,7 @@ PROG=fixed
 #PROG=container
 #PROG=myGtkWindow
 #PROG=startGtkApp
-#PROG=gtkdemo
+#PROG=start
 
 CC=gcc
 CFLAGS=`pkg-config --cflags gtk+-3.0`
